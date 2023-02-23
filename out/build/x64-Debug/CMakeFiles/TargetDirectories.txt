@@ -1,0 +1,3 @@
+D:/Документы/Обучение Нетология/Разработчик на С++/Программирование/Программы/HomeWorkCPP2.10.1/out/build/x64-Debug/CMakeFiles/my_first_cmake_program.dir
+D:/Документы/Обучение Нетология/Разработчик на С++/Программирование/Программы/HomeWorkCPP2.10.1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Документы/Обучение Нетология/Разработчик на С++/Программирование/Программы/HomeWorkCPP2.10.1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
